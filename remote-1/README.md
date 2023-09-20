@@ -2,7 +2,7 @@
 
 Udemy algorithms course progress and examples.
 
-Good good good
+car car car
 ### Run script
 
 Run in the cli:
