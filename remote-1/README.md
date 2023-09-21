@@ -2,7 +2,8 @@
 
 Udemy algorithms course progress and examples.
 
-car2
+updated updated
+
 ### Run script
 
 Run in the cli:
