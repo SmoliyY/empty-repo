@@ -13,8 +13,7 @@ branch changes
 
 
 # empty-repo
-not empty repo:aslwaaays
-
+PR to main only!
 
 change
 
