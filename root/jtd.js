@@ -3,7 +3,7 @@
 dadadad
 
 
-dadadadad
+remote
 const Ajv = require("ajv/dist/jtd")
 const Benchmark = require("benchmark")
 const jtdValidationTests = require("../spec/json-typedef-spec/tests/validation.json")
