@@ -1,5 +1,8 @@
 {
   "private": true,
+  "dependencies": {
+    "@redocly/realm": "*"
+  },
   "devDependencies": {
     "benchmark": "^2.1.4"
   }
