@@ -4,3 +4,5 @@ I am empty repo
 =======
 
 changes
+
+[test](./test.md)
